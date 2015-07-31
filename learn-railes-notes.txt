@@ -1,0 +1,14 @@
+issues/reference:
+
+## Book: Learn Ruby on Rails
+# Page 100:  	Learn more about IRB
+				Learn about PRY, an alternative for IRB
+
+# Page 101: 	Rails Console
+
+# Page 104: 	Rails Logger related information. Check out formatting information when you have time. 
+
+# Page 113: 	Link to Ruby API documentation
+
+
+
