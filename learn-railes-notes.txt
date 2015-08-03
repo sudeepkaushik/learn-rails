@@ -10,5 +10,12 @@ issues/reference:
 
 # Page 113: 	Link to Ruby API documentation
 
+#Page 130: 		Resources to learn Ruby language
+
+#Page 135: 		Layouts and Rendering in Rails. More about yield and content-for etc. 
+
+#Page 154: 		Tutorial links to CSS
+
+
 
 
