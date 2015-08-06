@@ -16,6 +16,20 @@ issues/reference:
 
 #Page 154: 		Tutorial links to CSS
 
+#Page 158: 		About Twitter Bootstrap
+
+#Page 159: 		About ThemeForest for repository of themes for websites
+
+#Page 178: 		Routing inside-out. Do revisit. 
+
+#Page 192:		ActiveModel screencast link.
+
+#Page 202: 		Instructions for setting Google account for Applicaitons. 
+
+#Page 211: 		Action Mailer basics for sending emails using Rails.  
+
+#Page 212: 		Asynchronous Mailing, See what happened to Rails 4.0 Queue API. 
+
 
 
 
